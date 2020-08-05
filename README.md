@@ -1,6 +1,6 @@
 ## Hi, I'm Mikey. 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/toofpaste/)
-[![LinkedIn](<img src=https://img.shields.io/badge/LinkedIn-mlarragueta-blue>)](https://www.linkedin.com/in/mlarragueta/)
+[![LinkedIn](<img src="https://img.shields.io/badge/LinkedIn-mlarragueta-blue">)](https://www.linkedin.com/in/mlarragueta/)
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br />
 **I'm currently a Web Developer looking for a Job**
