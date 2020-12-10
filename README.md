@@ -4,7 +4,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br />
 **I'm currently a Web Developer looking for a Job**
-- I'm currently working on [JustAskFelix](https://justaskfelix.com/);
+- I'm currently working on [JustAskFelix](https://www.justaskfelix.com/);
 - I graduated from Epicodus;
 - I'm currently searching for the right job;
 <br />
