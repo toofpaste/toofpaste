@@ -6,6 +6,7 @@
 **Full Stack Web Developer**
 <br />
 ** Languages and Tools: **
+<br />
 <img width="55%" align="right" alt="Mikey's github stats" src="https://github-readme-stats.vercel.app/api?username=toofpaste&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
