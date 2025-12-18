@@ -3,10 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mlarragueta-blue)](https://www.linkedin.com/in/mlarragueta/)
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br />
-**I'm currently a Web Developer looking for a Job**
-- I'm currently working on [JustAskFelix](https://www.justaskfelix.com/);
-- I graduated from Epicodus;
-- I'm currently searching for the right job;
+**Full Stack Web Developer**
 <br />
 ** Languages and Tools: **
 <img width="55%" align="right" alt="Mikey's github stats" src="https://github-readme-stats.vercel.app/api?username=toofpaste&show_icons=true&hide_border=true" />
